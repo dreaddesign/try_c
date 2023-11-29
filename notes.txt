@@ -1,0 +1,1 @@
+#compile file: cc hello.c -o hello
